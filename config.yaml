@@ -8,7 +8,7 @@
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor training for instance)
 # incubator: The Carpentries Incubator
-carpentry: 'incubator'
+carpentry: 'dc'
 
 # Overall title for pages.
 title: 'Lesson Title'
@@ -27,7 +27,7 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries/workbench-template-rmd'
+source: 'https://github.com/benamoah/geostatistics-for-health-research'
 
 # Default branch of your lesson
 branch: 'main'
