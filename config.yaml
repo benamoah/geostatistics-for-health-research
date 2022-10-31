@@ -64,7 +64,7 @@ episodes:
 
 # Information for Learners
 learners:
-- setup.md
+#- setup.md
 
 
 # Information for Instructors
