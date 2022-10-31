@@ -1,5 +1,5 @@
 ---
-title: "Using RMarkdown"
+title: "General Introduction"
 teaching: 10
 exercises: 2
 ---
