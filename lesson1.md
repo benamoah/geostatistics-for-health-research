@@ -1,7 +1,7 @@
 ---
 title: "Lesson One"
-teaching: 10
-exercises: 2
+teaching: 60
+exercises: 10
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
