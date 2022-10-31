@@ -47,8 +47,8 @@ contact: 'team@carpentries.org'
 # - introduction.md
 # - first-steps.md
 #
-# learners:
-# - setup.md
+#learners:
+#- setup.md
 #
 # instructors:
 # - instructor-notes.md
@@ -64,7 +64,7 @@ episodes:
 
 # Information for Learners
 learners:
-
+- setup.md
 # Information for Instructors
 instructors:
 
