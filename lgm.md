@@ -1,7 +1,7 @@
 ---
-title: "Lesson One"
-teaching: 60
-exercises: 10
+title: "The linear geostatistical model"
+teaching: 10
+exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -87,7 +87,7 @@ pie(
 ```
 
 <div class="figure" style="text-align: center">
-<img src="fig/lesson1-rendered-pyramid-1.png" alt="pie chart illusion of a pyramid"  />
+<img src="fig/lgm-rendered-pyramid-1.png" alt="pie chart illusion of a pyramid"  />
 <p class="caption">Sun arise each and every morning</p>
 </div>
 
