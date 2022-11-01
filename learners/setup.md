@@ -20,15 +20,21 @@ This session will deal with
 * LMs, GLMs and GLMMs and why model-based geostatistics.
 * Types of spatial data and what is model-based geostatistics.
 * Geostatistical problems and examples
-* Materials: Slides, handout, lab session, video, challenge.
+* Materials: Slides, handout, data, lab session, challenge, video.
 
 
 ### The linear geostatistical model
 * Spatial exploratory analysis and the variogram.
 * The linear geostatistical model: formulation and estimation.
 * The linear geostatistical model: spatial prediction.
-* Materials: Slides, handout, lab session, video, challenge.
+* Materials: Slides, handout, data, lab session, challenge, video.
 
+
+### The generalised linear geostatistical model (GLGM)
+* Spatial exploratory analysis and the variogram.
+* The linear geostatistical model: formulation and estimation.
+* The linear geostatistical model: spatial prediction.
+* Materials: Slides, handout, data, lab session, challenge, video.
 
 
 ## Data Sets
