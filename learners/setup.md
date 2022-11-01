@@ -2,9 +2,8 @@
 title: Setup
 ---
 
-## Set up
 
-#### Preliminaries
+### Preliminaries
 
 * The course assumes that the student is familiar with linear models (LMs), generalised linear models (GLMs), and generalised linear mixed models (GLMMs). 
 * You can refer to my introduction to LMs, GLMs, and GLMMs with R to familiarise yourself.
@@ -16,8 +15,9 @@ title: Setup
 
 * LMs, GLMs and GLMMs and why model-based geostatistics.
 * Types of spatial data and how model-based geostatistics is different from 
-  other spatial statistics disciplines.
+  other spatial statistics disciplines
 * Geostatistical problems and examples
+* Materials: Slides, data, lab session, challenge, handout, video
 
 
 ### Spatial exploratory analysis
@@ -25,19 +25,20 @@ title: Setup
 * Data summaries and visualisation 
 * Exploring spatial correlation: the variogram
 * Testing the assumption of independence
-* Materials: Slides, handout, data, lab session, challenge, video
+* Materials: Slides, data, lab session, challenge, handout, video
 
 
-### The linear geostatistical model (1)
+### The linear geostatistical model
 
 * Model formulation 
 * Estimation  
 * Spatial prediction.
-* Materials: Slides, handout, data, lab session, challenge, video.
+* Materials: Slides, data, lab session, challenge, handout, video
 
 
 ### The generalised linear geostatistical model (GLGM)
-* GLGMs.
+
+* Introduction to GLGMs
 * Binomial geo-statistical models for prevalence mapping
 - Formulation
 - Estimation
@@ -46,7 +47,7 @@ title: Setup
 - Formulation
 - Estimation
 - Spatial prediction
-* Materials: Slides, handout, data, lab session, challenge, video.
+* Materials: Slides, data, lab session, challenge, handout, video
 
 
 
