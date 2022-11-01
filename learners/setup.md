@@ -8,7 +8,7 @@ title: Setup
 
 * The course assumes that the student is familiar with linear models (LMs), generalised linear models (GLMs), and generalised linear mixed models (GLMMs). 
 
-* You can refer to my introduction to LMs or GLMs or GLMMs to familiarise yourself with the concepts.
+* You can refer to my introduction to LMs, GLMs, and GLMMs with R to familiarise yourself.
 
 * There will be a short overview of LMs, GLMs and GLMMs in the first lecture.
 
@@ -16,7 +16,9 @@ title: Setup
 
 #### Introduction
 
-* 
+* LMs, GLMs and GLMMs and geostatistical problems
+* Spatial exploratory analysis
+* The linear geostatistical model
 
 
 ## Data Sets
