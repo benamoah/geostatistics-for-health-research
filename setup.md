@@ -14,11 +14,21 @@ title: Setup
 
 
 
-#### Introduction
+#### General Introduction
 
-* LMs, GLMs and GLMMs and geostatistical problems
-* Spatial exploratory analysis
-* The linear geostatistical model
+This session will deal with
+* LMs, GLMs and GLMMs and why model-based geostatistics.
+* Types of spatial data and what is model-based geostatistics.
+* Geostatistical problems and examples
+* Materials: Slides, handout, lab session, video, challenge.
+
+
+### The linear geostatistical model
+* Spatial exploratory analysis and the variogram.
+* The linear geostatistical model: formulation and estimation.
+* The linear geostatistical model: spatial prediction.
+* Materials: Slides, handout, lab session, video, challenge.
+
 
 
 ## Data Sets
