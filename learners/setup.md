@@ -43,13 +43,13 @@ title: Setup
 
 * Introduction to GLGMs
 * Binomial geo-statistical models for prevalence mapping
-- Formulation
-- Estimation
-- Spatial prediction
+  + Formulation
+  + Estimation
+  + Spatial prediction
 * Poisson geo-statistical models for count data
-- Formulation
-- Estimation
-- Spatial prediction
+  + Formulation
+  + Estimation
+  + Spatial prediction
 * Materials: Slides, data, lab session, challenge, handout, video
 
 
