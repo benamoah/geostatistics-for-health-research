@@ -3,7 +3,7 @@ title: Setup
 ---
 
 
-## Schedule and Resources
+## Schedule and materials
 
 ### Preliminaries
 
