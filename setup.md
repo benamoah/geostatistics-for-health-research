@@ -3,6 +3,8 @@ title: Setup
 ---
 
 
+## Schedule and Resources
+
 ### Preliminaries
 
 * The course assumes that the student is familiar with linear models (LMs), generalised linear models (GLMs), and generalised linear mixed models (GLMMs). 
