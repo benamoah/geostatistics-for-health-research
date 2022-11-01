@@ -17,7 +17,8 @@ title: Setup
 * Types of spatial data and how model-based geostatistics is different from 
   other spatial analyses
 * Geostatistical problems and examples
-* Materials: Slides, data, lab session, challenge, handout, video
+* Materials: Slides, data, lab session, challenge, handout, video. You can download  the [data zip file](data/data.zip) for all the materials for this session.
+
 
 
 ### Spatial exploratory analysis
@@ -54,13 +55,6 @@ title: Setup
 
 
 
-
-
-
-
-## Data Sets
-
-Download the [data zip file](data/data.zip) and unzip it to your Desktop
 
 ## Software Setup
 
