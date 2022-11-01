@@ -7,15 +7,17 @@ title: Setup
 
 ### Preliminaries
 
-* The course assumes that the student is familiar with linear models (LMs), generalised linear models (GLMs), and generalised linear mixed models (GLMMs). 
-* You can refer to my introduction to LMs, GLMs, and GLMMs with R to familiarise yourself.
+* The course uses the R statistical software. You may refresh your skills in
+  R using my course Introductory Statistics with R course.
+* The course assumes that the student is familiar with linear models (LMs), linear mixed models (LMMs), generalised linear models (GLMs), and generalised linear mixed models (GLMMs). 
+* You can refer to my introduction to LMs and LMMs with R, and GLMs and GLMMs with R to familiarise yourself.
 * There will be a short overview of LMs, GLMs and GLMMs in the first lecture.
 
 
 
 ### General introduction
 
-* LMs, GLMs and GLMMs and why model-based geostatistics.
+* LMs, LMMs, GLMs and GLMMs and why model-based geostatistics.
 * Types of spatial data and how model-based geostatistics is different from 
   other spatial analyses
 * Geostatistical problems and examples
