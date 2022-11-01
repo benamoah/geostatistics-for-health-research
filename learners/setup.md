@@ -17,6 +17,7 @@ title: Setup
 #### General Introduction
 
 This session will deal with
+
 * LMs, GLMs and GLMMs and why model-based geostatistics.
 * Types of spatial data and what is model-based geostatistics.
 * Geostatistical problems and examples
