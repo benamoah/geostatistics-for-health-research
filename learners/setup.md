@@ -35,11 +35,19 @@ title: Setup
 * Materials: Slides, data, lab session, challenge, handout, video
 
 
-### The linear geostatistical model
+### The linear geostatistical model (1)
 
 * Model formulation 
 * Estimation  
+* Interpretation of model estimates
+* Materials: Slides, data, lab session, challenge, handout, video
+
+
+### The linear geostatistical model (2)
 * Spatial prediction.
+  + Mean surface
+  + Uncertainty maps
+  + Exceedance probabilities
 * Materials: Slides, data, lab session, challenge, handout, video
 
 
