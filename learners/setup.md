@@ -13,7 +13,7 @@ title: Setup
 
 
 
-### General Introduction
+### General introduction
 
 * LMs, GLMs and GLMMs and why model-based geostatistics.
 * Types of spatial data and how model-based geostatistics is different from 
