@@ -42,11 +42,11 @@ title: Setup
 ### The generalised linear geostatistical model (GLGM)
 
 * Introduction to GLGMs
-* Binomial geo-statistical models for prevalence mapping
+* Binomial geostatistical models for prevalence mapping
   + Formulation
   + Estimation
   + Spatial prediction
-* Poisson geo-statistical models for count data
+* Poisson geostatistical models for count data
   + Formulation
   + Estimation
   + Spatial prediction
@@ -75,13 +75,13 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 ### Windows
 
-Use PuTTY
+Use R
 
 :::::::::::::::::::::::::
 
 :::::::::::::::: solution
 
-### MacOS
+### RStudio
 
 Use Terminal.app
 
@@ -90,7 +90,7 @@ Use Terminal.app
 
 :::::::::::::::: solution
 
-### Linux
+### R packages
 
 Use Terminal
 
