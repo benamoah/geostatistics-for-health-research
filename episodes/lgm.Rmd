@@ -1,7 +1,7 @@
 ---
-title: "Lesson One"
-teaching: 60
-exercises: 10
+title: "The linear geostatistical model"
+teaching: 10
+exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
