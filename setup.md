@@ -15,7 +15,7 @@ title: Setup
 
 * LMs, GLMs and GLMMs and why model-based geostatistics.
 * Types of spatial data and how model-based geostatistics is different from 
-  other spatial statistics disciplines
+  other spatial analyses
 * Geostatistical problems and examples
 * Materials: Slides, data, lab session, challenge, handout, video
 
