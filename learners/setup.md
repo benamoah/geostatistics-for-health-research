@@ -6,11 +6,18 @@ title: Setup
 
 #### Preliminaries
 
-* The course assumes that the student is familiar with generalised linear models (GLMS). 
-You can refer to my introduction to GLMs to familiarise yourself if necessary. 
+* The course assumes that the student is familiar with linear models (LMs), generalised linear models (GLMs), and generalised linear mixed models (GLMMs). 
 
-Setup instructions live in this document. Please specify the tools and the data
-sets the Learner needs to have installed.
+* You can refer to my introduction to LMs or GLMs or GLMMs to familiarise yourself with the concepts.
+
+* There will be a short overview of LMs, GLMs and GLMMs in the first lecture.
+
+
+
+#### Introduction
+
+* 
+
 
 ## Data Sets
 
