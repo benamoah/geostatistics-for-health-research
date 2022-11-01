@@ -75,7 +75,7 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 :::::::::::::::: solution
 
-### Windows
+### R and RStudio
 
 Use R
 
@@ -83,18 +83,10 @@ Use R
 
 :::::::::::::::: solution
 
-### RStudio
+### R Packages
 
 Use Terminal.app
 
 :::::::::::::::::::::::::
 
-
-:::::::::::::::: solution
-
-### R packages
-
-Use Terminal
-
-:::::::::::::::::::::::::
 
